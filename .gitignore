@@ -13,6 +13,11 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# QWERTY
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+
 # Mono auto generated files
 mono_crash.*
 
